@@ -1,2 +1,2 @@
 # vanilla-js
-Html n
+Html and simple vanilla js based form validation and persistance
